@@ -1,0 +1,13 @@
+[{
+"question": "What does CSS stand for?",
+"choices": ["Creative Style Sheets", "Computer Style Sheets", "Cascading Style Sheets"],
+"answer": "Cascading Style Sheets"
+}, {
+"question": "Which CSS property controls the text size?",
+"choices": ["text-size", "font-size", "font-style"],
+"answer": "font-size"
+}, {
+"question": "What does HTML stand for?",
+"choices": ["Hyperlinks and Text Markup Language", "Hyper Text Markup Language", "Home Tool Markup Language"],
+"answer": "Hyper Text Markup Language"
+}]
